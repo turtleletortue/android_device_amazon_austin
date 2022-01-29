@@ -1,6 +1,8 @@
 etc/.tp/thermal.policy.conf
 lib/libasp.so
 lib/libcjson.so
+lib/libcam.paramsmgr.so
+lib/libcameracustom.so
 vendor/etc/audio-algorithms/AFE.cfg
 vendor/etc/audio-algorithms/coefs_FilterBank.cfg
 vendor/etc/audio-algorithms/EQ_2048.cfg
