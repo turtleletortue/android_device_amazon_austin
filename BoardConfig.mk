@@ -1,5 +1,5 @@
 # Kernel
-TARGET_KERNEL_CONFIG := austin_defconfig
+TARGET_KERNEL_CONFIG := halium_austin_defconfig
 BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
 
 # inherit from common mt8127
